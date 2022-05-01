@@ -10,5 +10,7 @@ co-organized by PyData Hong Kong, on 2022/04/25
 
 The two pdf files correspond to the two presentations of
 
-* Energy Management with Data Digitization and Analytics in the Era of Carbon Neutrality
-* Case study on Opportunities to Revise Energy Codes by Data Digitization Using a Smart Building Energy Audit Tool With Buildings in Hong Kong
+* Energy Management with Data Digitization and Analytics in the Era of Carbon Neutrality (Presentation1.pdf)
+* Case study on Opportunities to Revise Energy Codes by Data Digitization Using a Smart Building Energy Audit Tool With Buildings in Hong Kong (Presentation2.pdf)
+
+If you have questions to the speakers, please follow the contact details in the pdf files.
